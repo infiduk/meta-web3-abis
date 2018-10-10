@@ -555,7 +555,7 @@
       ],
       "name": "BallotFinalized",
       "type": "event",
-      "signature": "0x3b208472607d900e1f689c976139d1147afc463fa00df525e9aff8b0604d2984"///
+      "signature": "0x3b208472607d900e1f689c976139d1147afc463fa00df525e9aff8b0604d2984"
     },
     {
       "anonymous": false,
