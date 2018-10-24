@@ -520,7 +520,7 @@
           "type": "string"
         },
         {
-          "name": "timestamp",
+          "name": "createdAt",
           "type": "uint256"
         }
       ],

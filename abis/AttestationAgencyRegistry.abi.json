@@ -317,19 +317,19 @@
       "name": "getAttestationAgencySingle",
       "outputs": [
         {
-          "name": "",
+          "name": "addr",
           "type": "address"
         },
         {
-          "name": "",
+          "name": "title",
           "type": "bytes32"
         },
         {
-          "name": "",
+          "name": "description",
           "type": "bytes32"
         },
         {
-          "name": "",
+          "name": "createdAt",
           "type": "uint256"
         }
       ],

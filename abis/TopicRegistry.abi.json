@@ -355,15 +355,15 @@
       "name": "getTopic",
       "outputs": [
         {
-          "name": "",
+          "name": "issuer",
           "type": "address"
         },
         {
-          "name": "",
+          "name": "explanation",
           "type": "bytes32"
         },
         {
-          "name": "",
+          "name": "createdAt",
           "type": "uint256"
         }
       ],
