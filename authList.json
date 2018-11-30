@@ -1,0 +1,26 @@
+ [
+  {
+    "meta_id": "0x36504506Cd2Ed1D0B0717BD7a299ad6F61ea6307",
+    "icon": "https://avatars1.githubusercontent.com/u/36466960?s=200&v=4",
+    "auth_items": [
+       {
+          "title": "Phone Verification",
+          "topic": 20,
+          "description": "Phone Verification",
+          "url": "http://13.125.251.87:5000/phone/"
+       },
+       {
+          "title": "Email Verification",
+          "topic": 30,
+          "description": "Email Verification",
+          "url": "http://13.125.251.87:5000/email/"
+       },
+       {
+          "title": "SubEmail Verification",
+          "topic": 31,
+          "description": "SubEmail Verification",
+          "url": "http://13.125.251.87:5000/email2/"
+       }
+    ]
+  }
+ ]
